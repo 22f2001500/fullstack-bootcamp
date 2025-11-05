@@ -17,9 +17,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .npm
-.yarn-integrity
-
-# IDEs
+.yarn-integrity# IDEs
 .vscode/
 .idea/
 *.swp
